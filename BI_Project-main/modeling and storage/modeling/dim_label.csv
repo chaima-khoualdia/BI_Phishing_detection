@@ -1,0 +1,3 @@
+label_id,label_name,is_phishing,description
+1,benign,0,"Legitimate, safe URLs with no malicious intent"
+2,phishing,1,Malicious URLs designed to deceive users

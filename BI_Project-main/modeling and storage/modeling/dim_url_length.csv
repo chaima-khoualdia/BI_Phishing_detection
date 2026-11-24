@@ -1,0 +1,6 @@
+length_id,length_category,min_length,max_length,description
+1,Very Short (<20),0,19.0,URLs shorter than 20 characters
+2,Short (20-29),20,29.0,Short URLs between 20-29 characters
+3,Medium (30-49),30,49.0,Medium length URLs
+4,Long (50-99),50,99.0,Long URLs between 50-99 characters
+5,Very Long (100+),100,,Very long URLs over 100 characters
